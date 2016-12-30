@@ -1,0 +1,9 @@
+# ignore all data files
+*.mat
+
+# ignore files included already in DL_toolbox
+genNN_train.m
+nnff.m
+nnpredict.m
+sigm.m
+tanh_opt.m
